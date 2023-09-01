@@ -1,8 +1,8 @@
 lang: Deutsch
 hello: Hallo NoFWL
 window:
-  message:
-    close: Willst du die Anwendung schließen, wenn du [x] drückst?
+  message: Willst du die Anwendung schließen, wenn du [x] drückst?
+    close: Schließen
 menu:
   app:
     about: Über NoFWL
@@ -54,7 +54,7 @@ gpt:
       prompts: Aufforderungen
       export_md: Markdown exportieren
       settings: Einstellungen
-      hide_side: Seite verstecken
+      hide_side: Panel verstecken
     message:
       chat_history: Chatverlauf
       chat_delete: Bist du dir sicher, dass du diesen Chat löschen willst? Er kann nicht wiederhergestellt werden!
@@ -77,7 +77,7 @@ gpt:
       context: Das Modell kann keine vergangenen Anfragen abspeichern und muss deshalb durch den Dialog mit allen relevanten Informationen versorgt werden. Die Antwort basiert auf einer gegebenen Kontextebene, die die neuesten N Informationen in einem Bereich von 0-100 berücksichtigt.
   main:
     message:
-      delete_confirm: Sicher?
+      delete_confirm: Löschen bestätigen
 
 control_center:
   menu:
